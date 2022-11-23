@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-yad-zi4!s8%pnvyd18op1qgld*$7=81afvu=z=mpi_(caas3%2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['my-education-test-app.herokuapp.com']
+ALLOWED_HOSTS = ['my-education-test-app.herokuapp.com', 'education-test-app-production.up.railway.app']
 
 
 # Application definition
